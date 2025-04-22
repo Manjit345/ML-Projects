@@ -4,13 +4,13 @@ This repository contains the two final projects of our ML Lab curriculum during 
 
 ##  Project Details
 
-Institution - Heritage Institute of Technology
-Batch - 2022 to 2026
-Department - Data Science
-Group - 1
-Sub Group - 3
-Project 1 - Agricultural Yield Prediction
-Project 2 - Stock Market Trend Prediction
+Institution - Heritage Institute of Technology\n
+Batch - 2022 to 2026\n
+Department - Data Science\n
+Group - 1\n
+Sub Group - 3\n
+Project 1 - Agricultural Yield Prediction\n
+Project 2 - Stock Market Trend Prediction\n
 
 ## Group Member
 
@@ -23,7 +23,7 @@ The projects were made by :-
 
 ## Projects Links and Report
 
-Project 1 Link - https://agricultural-yield-college-ml.streamlit.app/
+Project 1 Link - https://agricultural-yield-college-ml.streamlit.app/\n
 Project 2 Link - To be added 
 
 The project report can be viwed here :-
