@@ -24,7 +24,7 @@ The projects were made by :-
 ## Projects Links and Report
 
 * **Project 1 Link** - https://agricultural-yield-college-ml.streamlit.app/
-* **Project 2 Link** - To be added 
+* **Project 2 Link** - https://stock-market-trend-prediction.streamlit.app/ 
 
 The project report can be viwed here :-
 https://docs.google.com/document/d/1Y54RDMnQy41vqG_EajcjmgrQpmxtzy724xreR08EPo0/edit?usp=sharing
